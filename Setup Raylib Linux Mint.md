@@ -35,5 +35,5 @@ make
 
 ### Reference
 
- - [https://github.com/albertnadal/MandelbrotGoLang/issues/1]
+ - https://github.com/albertnadal/MandelbrotGoLang/issues/1
 
