@@ -21,7 +21,7 @@ make CMAKE_BUILD_TYPE=RelWithDebInfo
 ```bash
 cd build && cpack -G DEB && sudo dpkg -i nvim-linux64.deb
 cd ../..
-rm neovim
+rm -fr neovim
 ```
 5. Install font icon (recommend for NV chad).cd to new location to install nerd font 
 ```bash
