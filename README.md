@@ -1,6 +1,7 @@
 - [Install Neo Vim in Ubuntu (from source)](https://github.com/vivekg13186/code_cheatsheet/blob/main/Install%20Neo%20Vim%20in%20Ubuntu%20(from%20source).md)
 - [Camunda Installation-Ubuntu Server](https://github.com/vivekg13186/code_cheatsheet/blob/main/Camunda%20Installation%20-%20Ubuntu%20Server.md)
 - [Install Node js in Ubuntu.md](https://github.com/vivekg13186/code_cheatsheet/blob/main/Install%20Node%20js%20in%20Ubuntu.md)
+- [Create Setup Raylib Linux Mint]()
 # neo vim
  ```
  yy - copy line
