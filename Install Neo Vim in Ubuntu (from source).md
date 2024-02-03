@@ -5,7 +5,7 @@
 
 1. Install tool needed for compiling
 ```bash
-sudo apt-get install git ninja-build gettext cmake unzip curl wget font-config ripgrep
+sudo apt-get install git ninja-build gettext cmake unzip curl wget font-config ripgrep build-essential
 ```
 2. Clone repo from git hub, you also download the zip file from GitHub
 ``` bash
