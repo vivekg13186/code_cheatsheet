@@ -27,9 +27,13 @@ cd game_name
 ```bash
 make
 ```
+
 ### To run the game
 ```bash
 ./_bin/Debug/game_name
 ```
 
+### Reference
+
+ - [https://github.com/albertnadal/MandelbrotGoLang/issues/1]
 
