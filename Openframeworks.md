@@ -1,0 +1,14 @@
+### Keycodes
+    - Ctrl + C  - 3
+    - Ctrl + V  - 22
+    - Ctrl + Z  - 26
+    - Ctrl + P  - 16
+    - Enter     - 13
+    - Backspace - 8
+    - Delete    - 127
+    - 0         - 48
+    - 9         - 57
+    - a         - 97
+    - z         - 122
+    - A         - 65
+    - Z         - 90
